@@ -13,7 +13,7 @@
 
 <div align="left">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/jay-klavans/jay-klavans/blob/main/coding.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/captainflag/captainflag/blob/main/coding.gif?raw=true">
 
 <p>
 👋 Hey! I’m a programming specialist with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
