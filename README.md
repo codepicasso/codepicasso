@@ -12,7 +12,6 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About Me
 
 <img align="right" alt="Coding" width="400" src="https://github.com/jay-klavans/jay-klavans/blob/main/coding.gif?raw=true">
 
