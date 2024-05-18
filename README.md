@@ -47,7 +47,7 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
 </p>
 
 <div align="center">
-  <img src="https://github.com/captainflag/captainflag/blob/main/divider.png" alt="divider"/>
+  <img src="https://github.com/captainflag/captainflag/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
  <img src="https://github.com/jay-klavans/jay-klavans/blob/main/code.gif" height="20"/> 
