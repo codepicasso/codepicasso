@@ -12,23 +12,20 @@
 </p>
 
 <div align="left">
-### 👨🏽‍💻 &nbsp;About Jay Klavans
+### 👨🏽‍💻 &nbsp;About Me
 
 <img align="right" alt="Coding" width="400" src="https://github.com/jay-klavans/jay-klavans/blob/main/coding.gif?raw=true">
 
 <p>
-As a Software Engineer, I possess a deep understanding of the Python programming language and its associated libraries, frameworks, and tools. I am proficient in developing scalable and high-performance applications, leveraging Python's robust ecosystem to build efficient and maintainable code. I have a strong grasp of object-oriented programming principles, design patterns, and best practices, allowing me to create robust and modular software solutions.
+👋 Hey GitHub folks! I’m a developer with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
 
-In the realm of data science, I have a solid foundation in statistical analysis, machine learning, and data visualization. I am experienced in working with large datasets, performing exploratory data analysis, and applying advanced algorithms and techniques to extract valuable insights. I am skilled in using popular data science libraries and frameworks such as pandas, NumPy, scikit-learn, and TensorFlow to develop predictive models and build data-driven solutions.
+In the realm of AI, I am fascinated by the power of Machine Learning and Deep Learning frameworks like TensorFlow and PyTorch. These technologies enable me to create systems that can learn from data, make intelligent decisions, and even understand human language through Natural Language Processing (NLP). I’ve been leveraging tools like NLTK and the latest transformer models to enhance applications with capabilities like text analysis and automating conversational responses.
 
-Rich experience designing, developing, and implementing web applications.
-Equipped with a diverse and promising skill-set: Ruby, Ruby on Rails, PHP, Laravel, JS, TS, React, Next, Node, etc. 
-Especially, Implemented attractive, user-friendly and responsive front-end projects to interact with blockchain using web3.js, Ethers.js, solidity on EVM.
+On the web development front, I thrive on designing and implementing responsive sites using frameworks like React and Angular. For backend solutions, I rely on Node.js and Django to build robust and scalable applications that handle traffic and data efficiently. Mobile development is another arena I love exploring, especially working with Flutter and React Native to create seamless, cross-platform experiences.
 
-Passionate about developing scalable, maintainable, and reliable applications. High-speed and quality coding, perfect maintaining, strong written and verbal communication, leadership and problemsolving skills.
+My journey through tech has always been about learning, growing, and, most importantly, creating tech that solves real-world problems. Check out my projects to get a taste of what I do and how I do it. I'm all about collaboration and innovation, so if you're interested in crafting some cutting-edge solutions or simply want to chat about tech trends, reach out!
 
-Ready for an opportunity to use my skills to grow your business and revenue exponentially.
-Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
+Let’s innovate, create, and elevate the tech landscape together! Cheers to coding and beyond! 🚀
 
 </p>
 </div>
