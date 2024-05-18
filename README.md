@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/jay-klavans/jay-klavans/blob/main/coding.gif?raw=true">
 
 <p>
-👋 Hey GitHub folks! I’m a developer with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
+👋 Hey! I’m a programming specialist with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
 
 In the realm of AI, I am fascinated by the power of Machine Learning and Deep Learning frameworks like TensorFlow and PyTorch. These technologies enable me to create systems that can learn from data, make intelligent decisions, and even understand human language through Natural Language Processing (NLP). I’ve been leveraging tools like NLTK and the latest transformer models to enhance applications with capabilities like text analysis and automating conversational responses.
 
