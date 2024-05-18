@@ -8,7 +8,7 @@
  <a href="https://github.com/jay-klavans?tab=followers"><img src="https://img.shields.io/github/followers/jay-klavans?style=social"></a>
 </div> -->
 <p align="center">
-   <a href="https://github.com/captainflag"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Data%20Scientist;Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+   <a href="https://github.com/captainflag"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+Profile!;Data%20Scientist;Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Always%20learning%20new%20stuffs&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
