@@ -98,7 +98,7 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
     <img src="https://img.shields.io/badge/Scrum-282C34?logo=Scrum&logoColor=41B883" alt="Scrum logo" title="Scrum" height="20" />  
     <img src="https://img.shields.io/badge/Jira-282C34?logo=Jira&logoColor=41B883" alt="Jira logo" title="Jira" height="20" />  
     <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="20" />  
-    <img src="https://img.shields.io/badge/git-282C34?logo=ai&logoColor=F05032" alt="git logo" title="git" height="20" />  
+    <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="20" />  
     <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=VS%20Code&logoColor=007ACC" alt="VS%20Code logo" title="VS%20Code" height="20" />  
    </td>
   </tr>
