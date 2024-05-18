@@ -43,7 +43,7 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/jay-klavans?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jay-klavans&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/captainflag?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=captainflag&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 <div align="center">
