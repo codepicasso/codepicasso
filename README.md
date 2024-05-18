@@ -11,9 +11,9 @@
    <a href="https://github.com/captainflag"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Transforming+Ideas+Into+Realty!;Machine%20Learning%20Engineer;Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Tech%20explorer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<div align="left">
+<div align="right">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/captainflag/captainflag/blob/main/coding.gif?raw=true">
+<img align="left" alt="Coding" width="400" src="https://github.com/captainflag/captainflag/blob/main/coding.gif?raw=true">
 
 <p>
 👋 Hey! I’m a programming specialist with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
