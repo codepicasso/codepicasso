@@ -50,9 +50,9 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
   <img src="https://github.com/captainflag/captainflag/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/jay-klavans/jay-klavans/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/captainflag/captainflag/blob/main/tag.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/jay-klavans/jay-klavans/blob/main/code.gif" height="20"/>
+ <img src="https://github.com/captainflag/captainflag/blob/main/tag.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
