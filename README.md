@@ -63,9 +63,8 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
-    <img src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=FFFFFF" alt="HTML5 logo" title="Python" height="20" />  
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
+    <img src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=FFFFFF" alt="Python logo" title="Python" height="20" />  
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="20" />  
     <img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=Tailwindcss&logoColor=F5517F" alt="Tailwindcss logo" title="TailwindCSS" height="20" />  
     <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
     <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F5517F" alt="Figma logo" title="Figma" height="20" />  
