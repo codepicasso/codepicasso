@@ -63,7 +63,7 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
   </tr>
   <tr>
    <td valign="center" align="center" width="400px">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=E34F26" alt="HTML5 logo" title="Python" height="20" />  
+    <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=FFFFFF" alt="HTML5 logo" title="Python" height="20" />  
     <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" />  
     <img src="https://img.shields.io/badge/Sass-282C34?logo=Sass&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
     <img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=Tailwindcss&logoColor=F5517F" alt="Tailwindcss logo" title="TailwindCSS" height="20" />  
