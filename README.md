@@ -81,7 +81,6 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
     <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=41B883" alt="Express logo" title="Express" height="20" />  
     <img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=41B883" alt="php logo" title="php" height="20" />  
     <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=F05032" alt="Laravel logo" title="Laravel" height="20" />  
-    <img src="https://img.shields.io/badge/Wordpress-283C56?logo=wordpress&logoColor=326790" alt="Wordpress logo" title="Wordpress" height="20" />  
     <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
     <img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=3178C6" alt="jQuery logo" title="jQuery" height="20" />  
    </td>
