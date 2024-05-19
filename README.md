@@ -58,7 +58,7 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
  <table>
   <tr>
    <td valign="center" width="100px"><b>Programming Languages<b></td>
-   <td valign="center" width="100px"><b>Backend<b></td>
+   <td valign="center" width="100px"><b>Web Tech<b></td>
    <td valign="center" width="100px"><b>Dev<b></td>
   </tr>
   <tr>
@@ -72,15 +72,12 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" /></span>  
     <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" /> 
     <img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=00ADD8" alt="Go logo" title="Go" height="20" />  
-    <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
-    <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F5517F" alt="Figma logo" title="Figma" height="20" />  
-    <img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=3178C6" alt="jQuery logo" title="jQuery" height="20" />  
+
+   </td>    
+   <td valign="center" align="center" width="400px">
     <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />  
     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />  
     <img src="https://img.shields.io/badge/Next.js-282C34?logo=Next.js&logoColor=41B883" alt="Next.js logo" title="Next.js" height="20" />  
-   </td>    
-   <td valign="center" align="center" width="400px">
-    <img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=grey" alt="Python logo" title="Python" height="20" />  
     <img src="https://img.shields.io/badge/Django-282C34?logo=Django&logoColor=41B883" alt="Django logo" title="Django" height="20" />  
     <img src="https://img.shields.io/badge/node.js-282C34?logo=node.js&logoColor=F5517F" alt="node.js logo" title="node.js" height="20" />  
     <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=41B883" alt="Express logo" title="Express" height="20" />  
@@ -89,6 +86,8 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
     <img src="https://img.shields.io/badge/CodeIgniter-282C34?logo=CodeIgniter&logoColor=yellow" alt="CodeIgniter logo" title="CodeIgniter" height="20" />  
     <img src="https://img.shields.io/badge/Symfony-282C34?logo=Symfony&logoColor=pink" alt="Symfony logo" title="Symfony" height="20" />  
     <img src="https://img.shields.io/badge/Wordpress-283C56?logo=wordpress&logoColor=326790" alt="Wordpress logo" title="Wordpress" height="20" />  
+    <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
+    <img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=3178C6" alt="jQuery logo" title="jQuery" height="20" />  
    </td>
    <td valign="center" align="center" width="400px">
     <img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=F7DF1E" alt="MySQL logo" title="MySQL" height="20" />  
