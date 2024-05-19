@@ -65,10 +65,10 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
    <td valign="center" align="center" width="400px">
     <img src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=FFFFFF" alt="Python logo" title="Python" height="20" />  
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="20" />  
-    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C++ logo" title="C++" height="20" /> 
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="20" /> 
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="20" /> 
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="20" /> 
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C# logo" title="C#" height="20" /> 
+    <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" alt=".NET logo" title=".NET" height="20" /> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="java logo" title="java" height="20" /> 
+    <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="ruby logo" title="ruby" height="20" /> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="20" /> 
     <img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=Tailwindcss&logoColor=F5517F" alt="Tailwindcss logo" title="TailwindCSS" height="20" />  
     <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
