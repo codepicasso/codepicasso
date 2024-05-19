@@ -69,12 +69,11 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
     <img src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" alt=".NET logo" title=".NET" height="20" /> 
     <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="java logo" title="java" height="20" /> 
     <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" alt="ruby logo" title="ruby" height="20" /> 
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="20" /> 
+    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" /></span>  
+    <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" /> 
     <img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=Tailwindcss&logoColor=F5517F" alt="Tailwindcss logo" title="TailwindCSS" height="20" />  
     <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="20" />  
     <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F5517F" alt="Figma logo" title="Figma" height="20" />  
-    <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" /></span>  
-    <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" />  
     <img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=3178C6" alt="jQuery logo" title="jQuery" height="20" />  
     <img src="https://img.shields.io/badge/React-282C34?logo=React&logoColor=61DBFB" alt="React logo" title="React" height="20" />  
     <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB" alt="Redux logo" title="Redux" height="20" />  
