@@ -20,7 +20,7 @@
 
 In the realm of AI, I am fascinated by the power of Machine Learning and Deep Learning frameworks like TensorFlow and PyTorch. These technologies enable me to create systems that can learn from data, make intelligent decisions, and even understand human language through Natural Language Processing (NLP). I’ve been leveraging tools like NLTK and the latest transformer models to enhance applications with capabilities like text analysis and automating conversational responses.
 
-On the web development front, I thrive on designing and implementing responsive sites using frameworks like React and Angular. For backend solutions, I rely on Node.js and Django to build robust and scalable applications that handle traffic and data efficiently. Mobile development is another arena I love exploring, especially working with Flutter and React Native to create seamless, cross-platform experiences.
+On the web development front, I thrive on designing and implementing responsive sites using frameworks like React and Angular. For backend solutions, I rely on Node.js and Django to build robust and scalable applications that handle traffic and data efficiently. Mobile development is another area I love exploring, especially working with Flutter and React Native to create seamless, cross-platform experiences.
 
 My journey through tech has always been about learning, growing, and, most importantly, creating tech that solves real-world problems. Check out my projects to get a taste of what I do and how I do it. I'm all about collaboration and innovation, so if you're interested in crafting some cutting-edge solutions or simply want to chat about tech trends, reach out!
 
