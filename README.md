@@ -13,8 +13,6 @@
 
 <div align="left">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/codepicasso/codepicasso/blob/main/coding.gif?raw=true">
-
 <p>
 For two decades, I’ve been engineering software solutions that don’t just work - they excel.
 
@@ -32,23 +30,23 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
 </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
  <a href="https://github.com/codepicasso?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=codepicasso&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
  <a href="https://github.com/codepicasso?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=codepicasso&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-</div>
+</div>-->
 
 <!-- activity graph heroku-app start -->
-<p align="center">
+<!--<p align="center">
     <a href="https://github.com/codepicasso">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=codepicasso&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</p>
+</p>-->
 <!-- activity graph heroku-app end -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/codepicasso?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=codepicasso&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
 </p>
-
+*/
 <div align="center">
   <img src="https://github.com/codepicasso/codepicasso/blob/main/divider2.png" alt="divider"/>
 </div> 
@@ -101,7 +99,7 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
    </td>
   </tr>
  </table/>
-</div/>
+</div/> -->
     
 <!-- <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
