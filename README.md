@@ -8,12 +8,12 @@
  <a href="https://github.com/jay-klavans?tab=followers"><img src="https://img.shields.io/github/followers/jay-klavans?style=social"></a>
 </div> -->
 <p align="center">
-   <a href="https://github.com/captainflag"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Transforming+Ideas+Into+Realty!;Machine%20Learning%20Engineer;Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Tech%20explorer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+   <a href="https://github.com/codepicasso"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Transforming+Ideas+Into+Realty!;Machine%20Learning%20Engineer;Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Tech%20explorer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/captainflag/captainflag/blob/main/coding.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/codepicasso/captainflag/blob/main/coding.gif?raw=true">
 
 <p>
 👋 Hey! I’m a programming specialist with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
@@ -30,29 +30,29 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
 </div>
 
 <div align="center">
- <a href="https://github.com/captainflag?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=captainflag&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/captainflag?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=captainflag&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+ <a href="https://github.com/codepicasso?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=codepicasso&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+ <a href="https://github.com/codepicasso?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=codepicasso&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://github.com/captainflag">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=captainflag&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://github.com/codepicasso">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=codepicasso&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/captainflag?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=captainflag&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/codepicasso?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=codepicasso&theme=onestar&no-frame=true&column=6&row=1"  width="76%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/captainflag/captainflag/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/codepicasso/captainflag/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/captainflag/captainflag/blob/main/tag.gif" height="20"/> 
+ <img src="https://github.com/codepicasso/captainflag/blob/main/tag.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/captainflag/captainflag/blob/main/tag.gif" height="20"/>
+ <img src="https://github.com/codepicasso/captainflag/blob/main/tag.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
