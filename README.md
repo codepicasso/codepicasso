@@ -13,7 +13,7 @@
 
 <div align="left">
 
-<img align="right" alt="Coding" width="400" src="https://github.com/codepicasso/captainflag/blob/main/coding.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://github.com/codepicasso/codepicasso/blob/main/coding.gif?raw=true">
 
 <p>
 👋 Hey! I’m a programming specialist with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
@@ -47,12 +47,12 @@ Let’s innovate, create, and elevate the tech landscape together! Cheers to cod
 </p>
 
 <div align="center">
-  <img src="https://github.com/codepicasso/captainflag/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/codepicasso/codepicasso/blob/main/divider2.png" alt="divider"/>
 </div> 
 <h3 align="center">
- <img src="https://github.com/codepicasso/captainflag/blob/main/tag.gif" height="20"/> 
+ <img src="https://github.com/codepicasso/codepicasso/blob/main/tag.gif" height="20"/> 
  Tech & Tools
- <img src="https://github.com/codepicasso/captainflag/blob/main/tag.gif" height="20"/>
+ <img src="https://github.com/codepicasso/codepicasso/blob/main/tag.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
