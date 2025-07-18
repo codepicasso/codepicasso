@@ -8,7 +8,7 @@
  <a href="https://github.com/jay-klavans?tab=followers"><img src="https://img.shields.io/github/followers/jay-klavans?style=social"></a>
 </div> -->
 <p align="center">
-   <a href="https://github.com/codepicasso"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Transforming+Ideas+Into+Realty!;Machine%20Learning%20Engineer;Full%20Stack%20Developer;8%2B%20years%20of%20Experience;Tech%20explorer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+   <a href="https://github.com/codepicasso"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Transforming+Ideas+Into+Realty!;Lead%20Engineer;Machine%20Learning%20Engineer;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <div align="left">
@@ -16,13 +16,16 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/codepicasso/codepicasso/blob/main/coding.gif?raw=true">
 
 <p>
-👋 Hey! I’m a programming specialist with a robust toolkit in Python and a deep passion for Machine Learning, AI, and building dynamic web and mobile applications.
+For two decades, I’ve been engineering software solutions that don’t just work - they excel.
 
-In the realm of AI, I am fascinated by the power of Machine Learning and Deep Learning frameworks like TensorFlow and PyTorch. These technologies enable me to create systems that can learn from data, make intelligent decisions, and even understand human language through Natural Language Processing (NLP). I’ve been leveraging tools like NLTK and the latest transformer models to enhance applications with capabilities like text analysis and automating conversational responses.
+I turn ideas into seamless digital experiences, from front-end magic to back-end. Whether it’s SQL or NoSQL, I make databases work effortlessly.
+APIs and RESTful services? I push the boundaries to ensure they flow smoothly.
+Every line of code is an opportunity to craft something exceptional.
 
-On the web development front, I thrive on designing and implementing responsive sites using frameworks like React and Angular. For backend solutions, I rely on Node.js and Django to build robust and scalable applications that handle traffic and data efficiently. Mobile development is another area I love exploring, especially working with Flutter and React Native to create seamless, cross-platform experiences.
 
-My journey through tech has always been about learning, growing, and, most importantly, creating tech that solves real-world problems. Check out my projects to get a taste of what I do and how I do it. I'm all about collaboration and innovation, so if you're interested in crafting some cutting-edge solutions or simply want to chat about tech trends, reach out!
+My expertise extends into AI, where I’ve designed and deployed cutting-edge solutions such as LLMs, chatbots, data analytics, AI automation, trading bots, object detection, talking avatars, and image generation. I specialize in making AI practical, integrating it seamlessly into applications to drive real-world results.
+
+Perfection - This is my guiding principles. Let’s build something remarkable.
 
 Let’s innovate, create, and elevate the tech landscape together! Cheers to coding and beyond! 🚀
 
